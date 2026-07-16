@@ -1,3 +1,5 @@
+<?php require __DIR__ . '/ajax.php' ?>
+
 <html>
   <head>
     <meta charset="UTF-8" class="active-bTHOvXbKnZvFq" />
